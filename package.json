@@ -18,5 +18,8 @@
   "homepage": "https://github.com/darshankhamar123/shortestTrip#readme",
   "devDependencies": {
     "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "npmrc": "^1.1.1"
   }
 }
