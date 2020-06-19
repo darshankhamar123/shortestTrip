@@ -1,0 +1,22 @@
+{
+  "name": "shortesttrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshankhamar123/shortestTrip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshankhamar123/shortestTrip/issues"
+  },
+  "homepage": "https://github.com/darshankhamar123/shortestTrip#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
